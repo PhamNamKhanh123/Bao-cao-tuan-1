@@ -18,14 +18,6 @@ Trong mô hình Agile, yêu cầu bài toán không được viết dưới dạ
 ## 2. Viết User Story (Câu chuyện người dùng)
 Để đảm bảo phần mềm giải quyết đúng nhu cầu thực tế, các yêu cầu tính năng sẽ được viết dưới góc nhìn của người dùng (End-user) thay vì góc nhìn kỹ thuật.
 
-**Cấu trúc tiêu chuẩn:**
-> **As a** [Loại người dùng/Actor], **I want to** [Hành động/Tính năng] **so that** [Mục đích/Giá trị mang lại].
-
-*Ví dụ minh họa:*
-* *As a* khách hàng, *I want to* khôi phục mật khẩu qua email *so that* tôi có thể đăng nhập lại khi quên mật khẩu cũ.
-* *As an* admin, *I want to* xem biểu đồ doanh thu theo tháng *so that* tôi có thể đánh giá hiệu quả kinh doanh.
-
----
 
 ## 3. Tiêu chí nghiệm thu (Acceptance Criteria & Definition of Done)
 
@@ -40,10 +32,10 @@ Là các điều kiện cụ thể áp dụng cho riêng một User Story đó.
 
 ### 3.2. Definition of Done (DoD - Định nghĩa Hoàn thành)
 Là bộ quy tắc chung áp dụng cho MỌI User Story trong dự án. Một task được coi là "Done" khi:
-* [x] Code đã chạy không có lỗi (Zero bugs).
-* [x] Giao diện hiển thị tốt trên cả Desktop và Mobile (Responsive).
-* [x] Đã đẩy code lên GitHub.
-* [x] Đã kiểm thử các luồng cơ bản (Happy path).
+*  Code đã chạy không có lỗi (Zero bugs).
+*  Giao diện hiển thị tốt trên cả Desktop và Mobile (Responsive).
+* Đã đẩy code lên GitHub.
+* Đã kiểm thử các luồng cơ bản (Happy path).
 
 ---
 
@@ -54,4 +46,4 @@ Vì thời gian làm dự án có hạn, các chức năng trong Product Backlog
 * **C - Could have:** Tính năng "nice to have", có thì tốt nhưng không ảnh hưởng lớn (VD: Chế độ Dark mode).
 * **W - Won't have (this time):** Các tính năng chưa cần thiết trong phạm vi đồ án hiện tại.
 
-**Kết luận:** Dựa trên phương pháp này, vào đầu tuần 2 (sau khi chốt đề tài cụ thể), toàn bộ chức năng của hệ thống sẽ được bóc tách thành các User Story và nhập liệu vào Product Backlog trên Jira.
+
