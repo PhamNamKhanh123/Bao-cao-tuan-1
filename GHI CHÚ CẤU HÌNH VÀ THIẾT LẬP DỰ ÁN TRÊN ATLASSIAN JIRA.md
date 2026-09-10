@@ -38,16 +38,4 @@ Trước khi có đề tài chi tiết để tạo Ticket, em đã thiết lập
 * **Cấu hình độ dài Sprint:** Thiết lập độ dài mặc định cho mỗi Sprint là **2 tuần (2 weeks)**.
 * **Bật tính năng Story Point Estimation:** Cấu hình sử dụng dãy số Fibonacci (1, 2, 3, 5, 8...) để đánh giá mức độ phức tạp của từng User Story thay vì dùng giờ (Hours), đúng với tư duy chuẩn của Agile.
 
----
 
-## 5. Minh chứng thực hành (Screenshots)
-Dưới đây là một số hình ảnh minh chứng giao diện Jira đã được em khởi tạo và thiết lập thành công trong Tuần 1, sẵn sàng cho việc nạp dữ liệu (Log task) vào Tuần 2:
-
-*(Thầy xem ảnh giao diện bảng Scrum Board và Backlog em đã chụp bên dưới)*
-
-![Giao diện Backlog trên Jira](link_anh_chup_man_hinh_backlog_cua_ban_o_day.png)
-
-![Giao diện Scrum Board trên Jira](link_anh_chup_man_hinh_board_cua_ban_o_day.png)
-
----
-**Kết luận:** Hệ thống Jira đã sẵn sàng. Ngay sau khi chốt xong đề tài và vẽ xong sơ đồ Use Case ở đầu tuần 2, toàn bộ yêu cầu phần mềm sẽ được chuyển hóa thành dạng Issue trên hệ thống này.
